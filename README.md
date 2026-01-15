@@ -1,48 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Lazaro A. Philemon
 
-### I'm Lazaro A. Philemon  
-**Software Engineer | Deep & Machine Learning Engineer | Product Enthusiast | Community Builder**
+**Software Engineer | Deep & Machine Learning Engineer | Product Enthusiast**
 
----
+Building intelligent, scalable software and production-ready machine learning solutions from **Tanzania 🇹🇿**.  
+I combine strong software engineering principles with AI and product thinking to solve real-world problems.
 
-## 🧐 About Me
+**Tech:** Python · C++ · Java · TensorFlow · PyTorch · Scikit-learn · Linux · Git  
 
-👋 Hey there! I'm **Lazaro A. Philemon**, a tech-driven community guy from **Tanzania 🇹🇿** who loves building products that make an impact.
+🔭 Developing real-world ML solutions  
+🌱 Continuous learner & community contributor  
+💬 Open to collaboration, DevRel, and speaking opportunities  
 
-I design and develop **intelligent, scalable software systems**—from data-driven applications to production-ready machine learning models. I combine strong software engineering practices with a passion for **AI, product thinking, and developer experience**, turning complex challenges into meaningful solutions.
+⚡ Fun fact: I enjoy playing chess, listening to classical music, and exploring nature through travel & research.  
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools**  
-`Python` `C++` `Java` `TensorFlow` `PyTorch` `Scikit-learn`  
-`Linux` `Git`
-
----
-
-## 🚀 What I Do
-
-- 🔭 Build, train, and deploy machine learning solutions for real-world problems  
-- 🌱 Continuously learning, researching, and improving model performance & system scalability  
-- 🤝 Actively involved in tech communities, mentorship, and collaboration  
-- 🧠 Think like a product owner—balancing engineering, users, and impact  
-
----
-
-## 💬 Let’s Connect
-
-- 💬 Ask me about **AI, ML, Cloud, RPA, DevRel, CommunityOps, CampusOps, or Product Thinking**
-- 📫 Reach me on **[WhatsApp](https://wa.me/255757041203)**
-- 🎤 Open to **speaking opportunities, collaborations, and community initiatives**
-
----
-
-## ⚡ Fun Facts
-
-- ♟️ I love playing chess  
-- 🎼 Enjoy classical music  
-- 🌍 Passionate about traveling, research, and exploring nature  
+📫 Reach me on [WhatsApp](https://wa.me/255757041203)
 
 ---
 
