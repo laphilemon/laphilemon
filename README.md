@@ -1,36 +1,42 @@
-## Hi 👋, I'm Lazaro A. Philemon
+<!-- Lazaro A. Philemon — Software Engineer · Machine Learning Engineer · Tanzania · Next.js · Node.js · TypeScript · Python · PostgreSQL · SDLC LinkedIn https://linkedin.com/in/laphilemon-->
 
-**Software Engineer | Deep & Machine Learning Engineer | Product Enthusiast**
+# Lazaro A. Philemon
 
-Building intelligent, scalable software and production-ready machine learning solutions from **Tanzania 🇹🇿**.  
-I combine strong software engineering principles with AI and product thinking to solve real-world problems.
+## Software Engineer | Machine Learning Engineer | Product Engineer
 
-**Tech:** Python · C++ · Java · TensorFlow · PyTorch · Scikit-learn · Linux · Git  
-
-🔭 Developing real-world ML solutions  
-🌱 Continuous learner & community contributor  
-💬 Open to collaboration, DevRel, and speaking opportunities  
-
-⚡ Fun fact: I enjoy playing chess, listening to classical music, and exploring nature through travel & research.  
-
-📫 Reach me on [WhatsApp](https://wa.me/255757041203)
+Building scalable software systems and production-ready machine learning solutions from Tanzania.
+Combining engineering fundamentals, AI, and product thinking to solve real-world problems.
 
 ---
 
-⭐ *Always open to learning, sharing knowledge, and building technology that matters.*
+## Technical Skills
 
+**Languages:** Python · TypeScript · C++ · Java  
+**Frameworks & Runtimes:** Next.js · Node.js · TensorFlow · PyTorch · Scikit-learn  
+**Infrastructure:** PostgreSQL · Docker · Linux · Git  
+**Practices:** SDLC · CI/CD · REST API Design · Clean Architecture
 
-<!--
-**la-philemon/la-philemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- End-to-end machine learning systems in production
+- Scalable backend and full-stack engineering
+- Open source contribution and developer community building
+- Developer Relations and technical speaking
+
+---
+
+**LinkedIn:** [linkedin.com/in/laphilemon](https://linkedin.com/in/laphilemon)
+
+<!-- Keywords: Software Engineer Tanzania · Machine Learning Engineer East Africa · Full Stack Developer · Next.js Node.js TypeScript Python PostgreSQL · SDLC · CI/CD · Open Source -->
+
+<!-- 
+METADATA AND SEO KEYWORDS:
+Software Engineer Tanzania, Machine Learning Engineer Dar es Salaam, 
+Full Stack Developer, Next.js, Node.js, TypeScript, Python, ML Engineer, 
+PostgreSQL, Database Design, SDLC, MLOps, System Design, REST API, 
+Scalable AI Solutions, East Africa Tech, Software Architecture, 
+Deep Learning, Production-Ready ML, Server-Side Rendering, SSR, 
+Microservices, Natural Language Processing, NLP, Sub-Saharan Africa.
 -->
