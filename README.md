@@ -11,7 +11,7 @@ Combining engineering fundamentals, AI, and product thinking to solve real-world
 
 ## Technical Skills
 
-**Languages:** Python · TypeScript · C++ · Java · Rust 
+**Languages:** Python · TypeScript · C++ · Java · Rust
 **Frameworks & Runtimes:** Next.js · Node.js · TensorFlow · PyTorch · Scikit-learn  
 **Infrastructure:** PostgreSQL · Docker · Linux · Git  
 **Practices:** SDLC · CI/CD · REST API Design · Clean Architecture
